@@ -28,7 +28,6 @@ I'm Hieu, currently a student [@UCSD](https://www.ucsd.edu) studying 🧮 Maths 
       <p>
         <img src="https://github.com/user-attachments/assets/964c1a2f-60b6-49fa-a817-69e13734f0b3" height="650">
       </p>
-
     </td>
   </tr>
 </table>
