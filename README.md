@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Hieu, currently a student [@UCSD](https://www.ucsd.edu) studying 🧮 Maths and 📊 Data Science. I enjoy building web apps, exploring data-driven insights, and solving algorithmic challenges. Always learning, always curious. I also work with Full-Stack development with [TESC](https://github.com/UCSDTESC/tesc.ucsd.edu) and [DS3](https://github.com/ucsdds3) and specialise in React, Typescript, HTML and CSS.
+I'm Hieu, currently a student [@UCSD](https://www.ucsd.edu) studying 🧮 Maths and 📊 Data Science. I enjoy building web apps, exploring data-driven insights, and solving algorithmic challenges. I'm always learning and always curious and also work with Full-Stack development with [TESC](https://github.com/UCSDTESC/tesc.ucsd.edu) and [DS3](https://github.com/ucsdds3). I specialise mainly in React, Typescript, HTML and CSS.
 <details>
   <summary>🧒 More about me</summary>
   
@@ -7,7 +7,6 @@ I'm Hieu, currently a student [@UCSD](https://www.ucsd.edu) studying 🧮 Maths 
   
 - 📊 I'm Passionate about data, algorithms, and thoughtful design
 
-  
 - 🌱 I'm currently learning system design & backend architecture
 
 - ✨ I'm Always down for a new project or challenge
