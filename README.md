@@ -16,36 +16,21 @@ I'm Hieu, currently a student [@UCSD](https://www.ucsd.edu) studying 🧮 Maths 
 
 
 ## Github Stats
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jaerinx&show_icons=true&theme=transparent&hide=stars&hide_rank=true" width="500" align="left"/>
-<img src="https://github.com/user-attachments/assets/964c1a2f-60b6-49fa-a817-69e13734f0b3" height="700" align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaerinx&theme=transparent" width="500" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaerinx&layout=donut&theme=transparent&langs_count=4"  width="500" align="left"/> 
-
-
-#### &nbsp;
-#### &nbsp;
-#### &nbsp;
-#### &nbsp;
-#### &nbsp;
-###### &nbsp;
-###### &nbsp;
-###### &nbsp;
-###### &nbsp;
-###### &nbsp;
-###### &nbsp;
-###### &nbsp;
-###### &nbsp;
-###### &nbsp;
-###### &nbsp;
-###### &nbsp;
-###### &nbsp;
-
-#### &nbsp;  &nbsp;  &nbsp; The struggle itself towards the heights is enough to fill a man's  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; heart. One must imagine Sisyphus happy. | Camus
-
-
-
+<table >
+  <tr>
+    <td width="500">
+      <img src="https://github-readme-stats.vercel.app/api?username=Jaerinx&show_icons=true&theme=transparent&hide=stars&hide_rank=true" width="500"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaerinx&theme=transparent" width="500"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaerinx&layout=donut&theme=transparent&langs_count=4"  width="500"/>
+      <p>The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy. | Camus</p>
+    </td>
+    <td  width="650" vertical-align="top">
+      <p>
+        <img src="https://github.com/user-attachments/assets/964c1a2f-60b6-49fa-a817-69e13734f0b3" height="650">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Tools & Languages
  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,6 +49,3 @@ I'm Hieu, currently a student [@UCSD](https://www.ucsd.edu) studying 🧮 Maths 
  ![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
  ![](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
  ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
