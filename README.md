@@ -14,8 +14,10 @@ I'm Hieu, currently a student [@UCSD](https://www.ucsd.edu) studying 🧮 Maths 
 - 📫 Reach me @ **vin028@ucsd.edu** or **https://www.linkedin.com/in/vietminhhieunguyen/**
 </details>
 
-
+### Current Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UCSDTESC&repo=tesc-portal&theme=transparent)](https://github.com/UCSDTESC/tesc-portal) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ucsdds3&repo=main-site&theme=transparent)](https://github.com/ucsdds3/main-site)
 ## Github Stats
+
 <table >
   <tr>
     <td width="500">
@@ -30,6 +32,16 @@ I'm Hieu, currently a student [@UCSD](https://www.ucsd.edu) studying 🧮 Maths 
       </p>
     </td>
   </tr>
+</table>
+<table>
+  <tr>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jaerinx&theme=github-dark">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaerinx&theme=github-light"/>
+    </picture>
+  </tr>
+   
+   
 </table>
 
 ## Tools & Languages
